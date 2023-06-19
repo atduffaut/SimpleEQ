@@ -1,2 +1,2 @@
 # SimpleEQ
-Music software written in C++
+Audio software written in C++
